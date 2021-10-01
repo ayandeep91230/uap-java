@@ -62,7 +62,7 @@ System.out.println(c.os.minor);         // => "1"
 System.out.println(c.device.family);    // => "iPhone"
 ```
 
-### Changelog
+###Changelog
 Changelog can be found [here](https://github.com/ua-parser/uap-java/wiki/ChangeLog).
 
 Original Author:
